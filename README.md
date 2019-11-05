@@ -9,3 +9,11 @@ npm install
 ```
 npm start
 ```
+
+## use Nginx can proxy
+
+pass_proxy
+
+## use pm2 start server
+
+pm2 
